@@ -1,4 +1,4 @@
-# 📊 Nobel Prize Dashboard – Power BI Project
+# 📊 Nobel Prize Analysis Dashboard – Power BI Project
 
 # Overview
 This Power BI dashboard analyzes and visualizes historical data related to the Nobel Prize. The report covers patterns and trends based on affiliations, 
